@@ -25,6 +25,8 @@ While the current webpage is a great first step in creating an interactive webpa
  - This will ensure that the users do not type random values which do not exist in the data file
 2. Ability to save a filtered view.
  - Users might want to use same or similar views and the ability to save a view for further analysis will help them in this regard
+3. Showing the visuals on a map instead of a table
+ - Collecting geocodes of UFO sightings and using them to visualise it on a map will help users analyse geographic concentrations of such visualisations better.
 
 
 
